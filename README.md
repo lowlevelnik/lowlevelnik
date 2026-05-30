@@ -56,4 +56,4 @@ I enjoy building things that solve real problems, whether that's a bioinformatic
 You can find me here:
 
 * GitHub: @lowlevelnik
-* LinkedIn: linkedin.com/in/nitin-yadav03
+* LinkedIn: https://linkedin.com/in/nitin-yadav03
