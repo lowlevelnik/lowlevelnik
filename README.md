@@ -19,7 +19,6 @@ The source code is private due to research and intellectual property considerati
 * AI automation and agentic workflows
 * LangChain and LangGraph
 * n8n
-* Backend development and system design
 
 ## Technologies I've worked with
 
